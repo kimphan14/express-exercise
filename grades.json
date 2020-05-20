@@ -1,0 +1,9 @@
+[
+    {"id":1, "grade":"A", "class":"Math"},
+    {"id":1, "grade":"C", "class":"Science"},
+    {"id":1, "grade":"D-", "class":"English"},
+    {"id":2, "grade":"B", "class":"English"},
+    {"id":3, "grade":"B+","class":"English"},
+    {"id":4, "grade":"F","class":"Science"},
+    {"id":1, "grade":"F-", "class":"Gym"}
+]
